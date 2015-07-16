@@ -1,6 +1,6 @@
 # Diceware
 
-This is the code for https://diceware.herokuapp.com. Feel free to host your own version and make any modifications.
+This is the code for https://diceware-boricua.herokuapp.com. Feel free to host your own version and make any modifications.
 
 ## Running the application
 
